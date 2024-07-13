@@ -206,7 +206,7 @@
 			collisionFilter: {
 				group: stopperGroup
 			},
-			restitution: 1,
+			restitution: 0.5,
 			render: {
 				fillStyle: COLOR.PINBALL
 			}
